@@ -42,6 +42,7 @@ My focus is on building models that generalize well and can be used in real-worl
 - FastAPI, Docker  
 - Scikit-learn, LightGBM , TensorFlow
 - Git & GitHub
+- PostgreSQL
 
 ## 📫 Contact
 
