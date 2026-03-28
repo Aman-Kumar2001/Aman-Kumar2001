@@ -10,6 +10,14 @@ My focus is on building models that generalize well and can be used in real-worl
 
 ## 🔥 Featured Projects
 
+###  Surface Defect Detection
+- Built a Deep Learning Open CV model to identify the potential defects of metal surafecs
+- Used Transfer Learning (MobileNetV2) for the classification and detection
+- Deployed a Dockerized **FastAPI** service for real-time fraud risk prediction  
+🔗 GitHub: https://github.com/Aman-Kumar2001/surface_defect_detection
+
+---
+
 ### 🧠 Fraud Transaction Detection
 - Built behavioral and temporal fraud features on **6.3M+ transactions**
 - Trained and evaluated multiple models on highly imbalanced data using **PR-AUC**
