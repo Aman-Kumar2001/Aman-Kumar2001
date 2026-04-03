@@ -13,7 +13,7 @@ My focus is on building models that generalize well and can be used in real-worl
 ###  Surface Defect Detection
 - Built a Deep Learning Open CV model to identify the potential defects of metal surafecs
 - Used Transfer Learning (MobileNetV2) for the classification and detection
-- Deployed a Dockerized **FastAPI** service for real-time fraud risk prediction  
+- Deployed a Dockerized **FastAPI** service for real-time surface defect detection  
 🔗 GitHub: https://github.com/Aman-Kumar2001/surface_defect_detection
 
 ---
@@ -23,6 +23,14 @@ My focus is on building models that generalize well and can be used in real-worl
 - Trained and evaluated multiple models on highly imbalanced data using **PR-AUC**
 - Deployed a Dockerized **FastAPI** service for real-time fraud risk prediction  
 🔗 GitHub: https://github.com/Aman-Kumar2001/fraud_transaction_api
+
+---
+
+###  Customer Churn Prediction
+- Built an end-to-end ML pipeline using **XGBoost**
+- Evaluated models using **ROC-AUC and Log Loss**
+- Deployed as a public REST API using **FastAPI + Docker**  
+🔗 GitHub: https://github.com/Aman-Kumar2001/customer_churn_prediction
 
 ---
 
@@ -37,7 +45,7 @@ My focus is on building models that generalize well and can be used in real-worl
 ### 🩺 Diabetes Risk Prediction
 - Built an end-to-end ML pipeline using **LightGBM**
 - Evaluated models using **ROC-AUC and Log Loss**
-- Deployed as a public REST API using **FastAPI + Docker**  
+- Deployed as a public REST API using **FastAPI + Docker + Render** 
 🔗 GitHub: https://github.com/Aman-Kumar2001/diabetes_risk_prediction
 
 
