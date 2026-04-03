@@ -52,11 +52,13 @@ My focus is on building models that generalize well and can be used in real-worl
 ## 🛠️ Skills
 
 - Python, SQL  
-- Machine Learning (Regression, Classification)  
+- Machine Learning (Regression, Classification)
+- Computer Vision
+- Natural Language Processing, Transformers, LLM 
 - Gradient Boosting, Model Evaluation, Cross-Validation (OOF)  
 - Feature Engineering, EDA  
-- FastAPI, Docker  
-- Scikit-learn, LightGBM , TensorFlow
+- FastAPI, Docker, Pydantic
+- Scikit-learn, LightGBM , TensorFlow, PyTorch
 - Git & GitHub
 - PostgreSQL
 
