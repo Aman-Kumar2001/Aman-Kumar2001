@@ -45,7 +45,7 @@ My focus is on building models that generalize well and can be used in real-worl
 ### 🩺 Diabetes Risk Prediction
 - Built an end-to-end ML pipeline using **LightGBM**
 - Evaluated models using **ROC-AUC and Log Loss**
-- Deployed as a public REST API using **FastAPI + Docker + Render** 
+- Deployed as a public REST API using **FastAPI + Docker + Render**
 🔗 GitHub: https://github.com/Aman-Kumar2001/diabetes_risk_prediction
 
 
